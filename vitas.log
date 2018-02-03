@@ -1,0 +1,55 @@
+[Sun Jan 14 21:06:37 2018] INFO: child shutdown, with status = 0
+[Sun Jan 14 21:06:37 2018] INFO: server shutdown
+[Sun Jan 14 21:06:37 2018] INFO: destroy_db()
+[Wed Jan 24 15:26:47 2018] FATAL: leveldb_open() fail!, error 'IO error: vitas/LOCK: Not a directory'
+[Wed Jan 24 15:26:47 2018] FATAL: open db error
+[Wed Jan 24 15:28:02 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:28:07 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:28:14 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:28:14 2018] INFO: server shutdown
+[Wed Jan 24 15:28:14 2018] INFO: destroy_db()
+[Wed Jan 24 15:28:36 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:28:38 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:28:50 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:28:50 2018] INFO: server shutdown
+[Wed Jan 24 15:28:50 2018] INFO: destroy_db()
+[Wed Jan 24 15:34:33 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:34:34 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:34:34 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:34:36 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:34:42 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:34:45 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:34:45 2018] INFO: server shutdown
+[Wed Jan 24 15:34:45 2018] INFO: destroy_db()
+[Wed Jan 24 15:39:22 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:39:23 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:39:26 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:46:42 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:46:42 2018] INFO: server shutdown
+[Wed Jan 24 15:46:42 2018] INFO: destroy_db()
+[Wed Jan 24 15:47:12 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:47:13 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:47:27 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:47:27 2018] INFO: server shutdown
+[Wed Jan 24 15:47:27 2018] INFO: destroy_db()
+[Wed Jan 24 15:47:54 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:47:55 2018] INFO: -------
+[Wed Jan 24 15:47:55 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:48:01 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:48:01 2018] INFO: server shutdown
+[Wed Jan 24 15:48:01 2018] INFO: destroy_db()
+[Wed Jan 24 15:52:47 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:52:49 2018] INFO: --1
+[Wed Jan 24 15:52:49 2018] INFO: -------
+[Wed Jan 24 15:52:49 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:52:55 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:52:55 2018] INFO: server shutdown
+[Wed Jan 24 15:52:55 2018] INFO: destroy_db()
+[Wed Jan 24 15:53:46 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:53:47 2018] INFO: stats1
+[Wed Jan 24 15:53:47 2018] INFO: --1
+[Wed Jan 24 15:53:47 2018] INFO: -------
+[Wed Jan 24 15:53:47 2018] INFO: server_on_wrtie
+[Wed Jan 24 15:58:22 2018] INFO: child shutdown, with status = 0
+[Wed Jan 24 15:58:22 2018] INFO: server shutdown
+[Wed Jan 24 15:58:22 2018] INFO: destroy_db()
